@@ -23,3 +23,7 @@ Put the tools in /root/tools
 
 Now you must configurate it, go through the files to see what needs to be changed, I’m lazy to detail everything, you just have to put the right paths.
     
+### Important
+You can host the bot.
+You cannot SELL the bot.
+You can modify the bot.
