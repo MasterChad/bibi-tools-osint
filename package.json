@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "discord.js": "^13.10.3",
+    "fs": "^0.0.2",
+    "fs-extra": "^11.1.0",
+    "moment": "^2.29.2",
+    "npm": "^9.2.0",
+    "shell-quote": "^1.8.0",
+    "validator": "^13.9.0"
+  }
+}
