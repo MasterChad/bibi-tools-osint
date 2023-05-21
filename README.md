@@ -24,7 +24,7 @@ Put the tools in /root/tools
 Now you must configurate it, go through the files to see what needs to be changed, I’m lazy to detail everything, you just have to put the right paths.
     
 ### Message from owner:
-Hey, i'm going to re-host this bot with new API of my website, with more ressources... I let the source code here, but the official bot is "Bibi Tools#3664" --> 1078408744171483167
+Hey, i'm going to re-host this bot with new API of my website, with more ressources... I let the source code here, but the official bot is "Bibi.Tools#3664" --> 1078408744171483167
     
 ### Important
 You can host the bot.
